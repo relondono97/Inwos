@@ -1,2 +1,2 @@
-# Inwos1
+# Inwos
 Proyecto formativo INWOS
